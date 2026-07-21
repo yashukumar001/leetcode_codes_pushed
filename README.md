@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0013-roman-to-integer) |
+| [0771-jewels-and-stones](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +23,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0013-roman-to-integer) |
+| [0771-jewels-and-stones](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
