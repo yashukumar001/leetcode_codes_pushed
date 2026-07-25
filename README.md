@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0228-summary-ranges) |
 ## Dynamic Programming
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0036-valid-sudoku) |
 | [0771-jewels-and-stones](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0771-jewels-and-stones) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
