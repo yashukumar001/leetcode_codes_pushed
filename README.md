@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0228-summary-ranges) |
+| [0682-baseball-game](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/yashukumar001/leetcode_codes_pushed/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
